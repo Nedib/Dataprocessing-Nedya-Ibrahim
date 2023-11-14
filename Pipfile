@@ -15,6 +15,7 @@ plotly = "*"
 plotly-express = "*"
 ipython = "*"
 nbformat = "*"
+dash = "*"
 
 [dev-packages]
 

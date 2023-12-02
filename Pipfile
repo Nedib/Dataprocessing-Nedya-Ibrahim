@@ -16,6 +16,7 @@ plotly-express = "*"
 ipython = "*"
 nbformat = "*"
 dash = "*"
+dash-bootstrap-templates = "*"
 
 [dev-packages]
 
